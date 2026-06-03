@@ -1,6 +1,6 @@
 write a shellscript to find weater the given number is even or odd
 shellscript to find the factorial of a number
-disk usage
+disk usage >90% and 70% send a warning message to admin team
 Cpu utilization
 
 
